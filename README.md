@@ -1,2 +1,2 @@
-# WorkoutWebApp
-A workout tracking app created for my wife.
+# App Hub
+A hub for all of my python terminal apps that I have enhanced using Tkinter.
